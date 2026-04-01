@@ -3,8 +3,8 @@
 
 <h2>Objetivo</h2>
 <div>Este projeto, quando concluído, será uma API que possibilitará a administração 
-de atividades, exercícios e mais eficiência em momentos de estudo.
-<p>Particularmente, quando eu estudo há várias abas abertas, de um pdf, do drive, do YouTube.
+de atividades, exercícios e mais eficiência em momentos de estudo.<p>
+Particularmente, quando eu estudo há várias abas abertas, de um pdf, do drive, do YouTube.
 Nesse contexto, eu notei que esta quantidade de sites prejudicava a qualidade das 
 minhas horas de estudo. Dessa forma, eu decidi desenvolver esta aplicação.</p>
 <p>
